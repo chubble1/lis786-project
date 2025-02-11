@@ -3,21 +3,24 @@ title: About
 layout: page
 permalink: /about
 ---
-This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
-this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
 
-## This is what an h2 element looks like in Markdown
+We can have HTML here bc the file is a .HTML. We're about to work with MarkDown though, so that should be fun. Here is some dummy text.
 
-Paragraphs are just text without `<p>` tags. Take a look at my unordered (bulleted) list below:
+! [CC image of herbs](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/11526fd4-68d1-4799-9ab9-4e85cbcbba3f/de7akex-933729b7-6edd-4b9a-b402-af02c56cd5c7.png)
 
-- list item one
-- list item two
-- list item three
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+onec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. 
+Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet 
+a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean 
+leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, 
+feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. 
+aecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque 
+sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante 
+tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci 
+get eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+    
+- Breakfast
+- Lunch
+- Dinner
 
-And here's an ordered (numbered) list:
-
-1. List item one
-1. list item two
-1. list item three
-
-(You can use any number and the script will convert the numbers to the correct ordering.)
