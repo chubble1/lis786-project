@@ -6,7 +6,7 @@ permalink: /about
 
 *We can have HTML here bc the file is a .HTML.* We're about to work with MarkDown though, so that should be fun. Here is some dummy text.
 
-! [CC image of herbs](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/11526fd4-68d1-4799-9ab9-4e85cbcbba3f/de7akex-933729b7-6edd-4b9a-b402-af02c56cd5c7.png)
+![CC image of herbs](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/11526fd4-68d1-4799-9ab9-4e85cbcbba3f/de7akex-933729b7-6edd-4b9a-b402-af02c56cd5c7.png)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
 onec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. 
