@@ -3,6 +3,7 @@ title: Breakfast
 layout: page
 permalink: /Breakfast
 image_url: https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2lzMTQ2NzEtaW1hZ2Uta3d2d3RrbmIuanBn.jpg
+image_alt: Image of millions of Fruit Loops.
 my_variable: Breakfast is served.
 ---
 {% include page-image.html %}
