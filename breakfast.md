@@ -2,7 +2,7 @@
 title: Breakfast
 layout: page
 permalink: /Breakfast
-image_url: https://en.wikipedia.org/wiki/Breakfast#/media/File:Breakfast_at_the_Black_Bear_Diner.jpg
+image_url: https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2lzMTQ2NzEtaW1hZ2Uta3d2d3RrbmIuanBn.jpg
 my_variable: Breakfast is served.
 ---
 <img src ="{{ page.image_url }}" alt ="CC image of typical American breakfast, including eggs.">
