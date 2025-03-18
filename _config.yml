@@ -1,12 +1,12 @@
 title: Claire Eats
 theme: minima
 collections:
-  food_archive:
+  food:
     output: true
 
 
 defaults:
   - scope:
-      type: "food_archive"
+      type: "food"
     values:
-      layout: archive_item
+      layout: meal
