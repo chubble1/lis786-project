@@ -1,7 +1,7 @@
 ---
 title: Potato and Chickpea Curry
 category: dinner
-image: https://freeimage.host/i/potatochickpeacurry.3oXDJON
+image: https://cdn.imgpile.com/f/d2DywoI_xl.png
 ---
 A meal like curry is such a warm hug. This recipe, I found online, is by far the easiest curry recipe I have ever encountered.
 
