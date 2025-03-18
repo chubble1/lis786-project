@@ -14,10 +14,10 @@ This is my breakfast page! Gotta change something so it's gonna be this sentence
 {{ page.my_variable }}
 
 {% for meal in site.food %}
-{% if meal.category == 'breakfast' %}
+{% if meal.category == "breakfast" %}
 <h3>{{ meal.title }}</h3>
 <p><img src="{{ meal.image }}" alt="alt text here" /></p>
 <p>{{ meal.content }}</p>
 <p>Category: {{ meal.category }}</p>
-{{% endif %}}
+{% endif %}
 {% endfor %}
