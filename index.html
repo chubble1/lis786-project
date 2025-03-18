@@ -7,12 +7,15 @@ layout: home
 <p><em>Breakfast is ready. Lunch is on the table. Dinner is served.</em>
     Welcome to the world of food, experienced through me, Claire.</p>
 
-    <ul>
-        <li>Breakfast</li>
-        <Li>Lunch</Li>
-        <li>Dinner</li>
-    </ul>
+<h2>List of Meals</h2>
+{% for meal in site.food %}
+    <h3>{{ meal.title }}</h3>
+    <p><img src="{{ meal.image }}" alt="alt text here" /></p>
+    <p>{{ meal.content }}</p>
+    <p>Category: {{ meal.category }}</p>
 
-<p>This food archive was inspired by my love of food: tasting and eating. While recipes are not featured on this site, many of the foods I discuss I have personally made. Some recipes come from 
+{% endfor %}
+
+<p>This food archive is inspired by my love of food: tasting and eating. While recipes are not featured on this site, many of the foods I discuss I have personally made. Some recipes come from 
     cookbooks, some from friends, some from a quick Google search: "easy vegetarian recipes that taste good."</p>
   
