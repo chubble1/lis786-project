@@ -1,3 +1,4 @@
+---
 title: Dinner
 layout: page
 permalink: /Dinner
