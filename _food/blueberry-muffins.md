@@ -1,7 +1,7 @@
 ---
 title: Blueberry Muffins
 category: breakfast
-image: https://i.ibb.co/jk9LPNvW/1.png
+image: https://i.ibb.co/RrS1tWf/1.png
 ---
 Perhaps it's because I grew up making muffins from box recipes instead of from scratch, but I am always shocked when muffin recipes yield less than 12 muffins. This recipe makes 8, but it is so worth it every single time. 
 

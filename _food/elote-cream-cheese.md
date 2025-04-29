@@ -1,7 +1,7 @@
 ---
 title: U3's Everything + Elote
 category: breakfast
-image: https://i.ibb.co/C3w697jg/bagel.png
+image: https://i.ibb.co/Q3xn6s5z/bagel.png
 ---
 The newest coffee shop in my neighborhood is a coffee shop that does not accept tips. I have been twice so far, and both times my order totaled $8.80 for a 12 oz signature drink and a bagel with cream cheese. 
 

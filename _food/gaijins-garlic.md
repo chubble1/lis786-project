@@ -1,7 +1,7 @@
 ---
 title: The Garlic at Gaijin
 category: dinner
-image: https://i.ibb.co/vvBnRQS0/2.png
+image: https://i.ibb.co/ccXqpR1h/2.png
 ---
 At Gaijin in Chicago's Fulton Market District, there is so much food to enjoy. At the top of the list for me has to be their appetizer: twice-cooked garlic and senbei crackers. To die for. 
 

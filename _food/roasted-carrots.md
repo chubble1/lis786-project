@@ -1,7 +1,7 @@
 ---
 title: Roasted Carrots with Farro
 category: dinner
-image: https://i.ibb.co/FLvYM2RH/3.png
+image: https://i.ibb.co/MDY1RPWf/3.png
 ---
 One of my favorite dishes from one of my favorite cookbooks, Love Real Food. Tanner and I are obsessed with these rainbow carrots, the star of this plate. 
 
