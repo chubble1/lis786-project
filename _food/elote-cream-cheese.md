@@ -1,11 +1,8 @@
 ---
 title: U3's Everything + Elote
 category: breakfast
-image: https://cdn.imgpile.com/f/oYNpWz9_xl.png
+image: https://i.ibb.co/C3w697jg/bagel.png
 ---
-These muffins are quite literally the best I have ever made. I hate that the recipe, which calls for 1 entire cup of fresh blueberries only makes 8 muffins. I want to eat them for breakfast with tyogurt or an apple, then also for dessert after supper. The fresh blueberries make all the difference, too.
+The newest coffee shop in my neighborhood is a coffee shop that does not accept tips. I have been twice so far, and both times my order totaled $8.80 for a 12 oz signature drink and a bagel with cream cheese. I remember a time when a bagel with cream cheese and a latte cost me $7 or less, but $8.80 is the most reasonable price I have encountered in a long time. \(Compare this to when Tanner and I visited a second new coffee shop and paid $17 for two cold brew coffees.\)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+I digress. What I'm here to talk about is the *elote cream cheese* that rested on my toasted everything bagel. Yes: elote cream cheese, filled with corn and jalapeno pieces. The spiciness was cooled off the by temperature of the cream cheese. I never eat plain bagels, and this might be a cream cheese worth eating even if plain bagels are the only option. The bagel itself was good, but the star of this show was the schmear. 
