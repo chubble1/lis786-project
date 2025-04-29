@@ -5,16 +5,16 @@
 @import "{{ site.theme }}";
 
 header {
-    background-color:black;
-    color:cornsilk;
+    background-color: #000000;
+    color: #FFF8DC;
 }
 
 nav {
-    color:cornsilk;
+    color: #FFF8DC;
 }
 
 body {
-    background-color:cornsilk;
+    background-color: #FFF8DC;
 }
 
 h1 {
@@ -24,8 +24,8 @@ h1 {
 h2 {
     text-align: left;
     padding: 20px;
-    background-color:black;
-    color: cornsilk;
+    background-color: #000000;
+    color: #FFF8DC;
     font-size: 75px;
 }
 
@@ -34,6 +34,6 @@ p {
 }
 
 footer {
-    background-color:black;
-    color:cornsilk;
+    background-color:#000000;
+    color: #FFF8DC;
 }
