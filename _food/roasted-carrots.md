@@ -1,7 +1,7 @@
 ---
 title: Roasted Carrots with Farro
 category: dinner
-image: https://i.ibb.co/GvzpLGzH/Untitled-design-2.png
+image: https://i.ibb.co/FLvYM2RH/3.png
 ---
 A meal like curry is such a warm hug. This recipe, I found online, is by far the easiest curry recipe I have ever encountered.
 
