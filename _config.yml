@@ -10,3 +10,11 @@ defaults:
       type: "food"
     values:
       layout: meal
+
+
+header_pages:
+  - about.md
+  - breakfast.md
+  - lunch.md
+  - dinner.md
+
