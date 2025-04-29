@@ -7,6 +7,7 @@ image_alt: Image of millions of Fruit Loops.
 my_variable: Dinner is served.
 ---
 {{ page.my_variable }}
+
 {% include page-image.html %}
 
 This is my dinner page! Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.

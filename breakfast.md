@@ -7,6 +7,7 @@ image_alt: Image of millions of Fruit Loops.
 my_variable: Breakfast is served.
 ---
 {{ page.my_variable }}
+
 {% include page-image.html %}
 
 Breakfast: the meal that begins each of our days. To some, this is a chance to fuel the body with healthy foods that improve energy and attention levels. For others, this meal is a soft and slow start to long days at the office or at home with the kids. To me, breakfast is so versatile, but when I try to prep breakfast for myself, I always come up short on ideas. 
