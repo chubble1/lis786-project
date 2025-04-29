@@ -2,7 +2,7 @@
 title: Dinner
 layout: page
 permalink: /Dinner
-image_url: 
+image_url: https://i.ibb.co/1tGMG86V/IMG-2158.jpg
 image_alt: Image of millions of Fruit Loops.
 my_variable: Dinner is served.
 ---

@@ -2,14 +2,18 @@
 title: Breakfast
 layout: page
 permalink: /Breakfast
-image_url: https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2lzMTQ2NzEtaW1hZ2Uta3d2d3RrbmIuanBn.jpg
+image_url: https://i.ibb.co/G3Tkvp9Q/IMG-1223.jpg
 image_alt: Image of millions of Fruit Loops.
 my_variable: Breakfast is served.
 ---
 {{ page.my_variable }}
 {% include page-image.html %}
 
-This is my breakfast page! Gotta change something so it's gonna be this sentence... Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Breakfast: the meal that begins each of our days. To some, this is a chance to fuel the body with healthy foods that improve energy and attention levels. For others, this meal is a soft and slow start to long days at the office or at home with the kids. To me, breakfast is so versatile, but when I try to prep breakfast for myself, I always come up short on ideas. 
+
+This is weird because there are so many breakfast foods I enjoy. From the Grand Slamwich at Denny's, to a 50 second microwaved poached egg, to a box of Jewel-brand Mini Wheats: I love to eat breakfast. I am also someone who usually wakes up a little hungry so I'm *ready* to eat breakfast when the time comes each morning.
+
+The dishes below are a diverse collection of breakfasts I've deeply enjoyed. \(However, it is possible that none of them beat eating a cold slice of leftover pizza.\)
 
 {{ page.my_variable }}
 
