@@ -14,6 +14,6 @@ layout: home
 {% for meal in site.food %}
     <h3>{{ meal.title }}</h3>
     <p><img src="{{ meal.image }}" alt="alt text here" /></p>
-    <p>{{ meal.content }}</p>
+    <p>{{ meal.excerpt }}</p>
     <p>Category: {{ meal.category }}</p>
 {% endfor %}
