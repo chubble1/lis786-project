@@ -1,11 +1,10 @@
 ---
 title: Potato and Chickpea Curry
 category: dinner
-image: https://cdn.imgpile.com/f/d2DywoI_xl.png
+image: https://i.ibb.co/6cTFYkM2/curry.png
 ---
-A meal like curry is such a warm hug. This recipe, I found online, is by far the easiest curry recipe I have ever encountered.
+Curry is such a warm hug dish for me. Every time I eat it, the anger and sorrow of my tiny world disappears and I am a happier, more caring, more empathetic version of myself. And all because of curry powder and some golden potatoes.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+This recipe really inspired me when I first made it. I don't know if it is the physical smushing of potatoes that gets me excited, or the fact that it looks like real, proper curry at the end of my hard work. It's also a very short cooking time, using really accessible cooking skills being used. I feel like I can *really* cook when I make this meal!
+
+A lime-cilantro yogurt dressing is drizzled on top of the rice and curry, finished with more fried onions on top for a nice crunch. I like to add fresh jalapeno on top to give it an extra kick, but any hot sauce pairs well with the cool yogurt on top. 
