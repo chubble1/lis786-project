@@ -1,11 +1,8 @@
 ---
 title: Blueberry Muffins
 category: breakfast
-image: https://cdn.imgpile.com/f/oYNpWz9_xl.png
+image: https://i.ibb.co/jk9LPNvW/1.png
 ---
-These muffins are quite literally the best I have ever made. I hate that the recipe, which calls for 1 entire cup of fresh blueberries only makes 8 muffins. I want to eat them for breakfast with tyogurt or an apple, then also for dessert after supper. The fresh blueberries make all the difference, too.
+Perhaps it's because I grew up making muffins from box recipes instead of from scratch, but I am always shocked when muffin recipes yield less than 12 muffins. This recipe makes 8, but it is so worth it every single time. 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+It's impossible to not crack one in half seconds after removing it from the oven. I especially love the fresh blueberries that have burst while baking--they seep into the muffin batter and create beautiful purple veins throughout. Honeslty, this is a go-to breakast paired with some egg muffins or a yogurt. They are not the healthiest muffin, using vegetable oil and plenty of sugar, but they are a show stopper. The perfect recipe when blueberries are cheap at the local Jewel. 
