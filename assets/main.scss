@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+    background-color:black;
+}
+
 body {
     background-color:cornsilk;
 }
