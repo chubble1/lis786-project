@@ -10,7 +10,7 @@ Hi, my name is Claire. This is my food archive.
 
 ![CC image of herbs](https://i.ibb.co/ksWVfPGc/IMG-4035.jpg)
 
-When I'm not eating food, I'm a real life librarian as of May 2025, when I graduated with an MLIS degree. Yes, I love cookbooks! I need a better way to store mine. I am also a vegetarian, which heavily influences what I eat and what I enjoy eating \(obviously\). I became a vegetarian in 2017 as a New Year's resolution and never looked back. It really has been such a great experience for me. I made another site \(in another LIS class\) dedicated to different cheese sandwiches of my life. [Check it out here.](https://cookieandkate.com/love-real-food-cookbook/) In the meantime, check out my dishes from these three meal categories:
+When I'm not eating food, I'm a real life librarian as of May 2025, when I graduated with an MLIS degree. Yes, I love cookbooks! I need a better way to store mine. I am also a vegetarian, which heavily influences what I eat and what I enjoy eating \(obviously\). I became a vegetarian in 2017 as a New Year's resolution and never looked back. It really has been such a great experience for me. I made another site \(in another LIS class\) dedicated to different cheese sandwiches of my life. [Check it out here\(The side nav is broken but use the nav in the footer!\).](https://chubble1.github.io/Final-Project/home) In the meantime, check out my dishes from these three meal categories:
 - Breakfast
 - Lunch
 - Dinner
