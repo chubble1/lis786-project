@@ -10,7 +10,9 @@ my_variable: Dinner is served.
 
 {% include page-image.html %}
 
-This is my dinner page! Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+Of the three types of meals we usually eat, dinner is by far the most intimidating. It can mean so many things, be so many different dishes. I like dinner that makes me feel good about my day, despite the status of my work or scbool or relationships. Of the meals, I also spend the most time thinking about dinner: when are we eating dinner, what are we having for dinner, am I cooking dinner tonight, we should invite them over for dinner, we should make our neighbors dinner, is this dinner good for me, is this dinner good for Tanner, do the cats want to eat dinner with us, what did I forget at the store that I need in order to cook dinner?
+
+It is a never-ending cycle of getting groceries, making dinner, cleaning dishes. Two of the three of these things I've gotten very comfortable with over the past few years. The last thing is a chore I've been begrudgingly completeing since I was a kid. When I make a nice dinner, I feel really proud. When I dress up and go eat nice food, I also feel proud. I looove discovering new dinner spots in Chicago. A lot of dishes would be on this dinner list if I had the photos to display them.  
 
 {{ page.my_variable }}
 
