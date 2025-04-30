@@ -4,7 +4,7 @@ layout: page
 permalink: /about
 ---
 
-Hi, my name is Claire. Welcome to my food archive.
+Hi, my name is Claire. This is my food archive.
 
 *Claire, how is a food archive different from a food blog?* I'm glad you asked! This food archive is here for me mostly, and doesn't include time stamps on when I ate the food or uploaded new content to the site. Though archives are famous for their time-stamping abilities, I like to think of this site as a more personal archive focused on tasting and eating and loving the food that I buy and make and share.
 
