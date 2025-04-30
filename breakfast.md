@@ -4,7 +4,7 @@ layout: page
 permalink: /Breakfast
 image_url: https://i.ibb.co/G3Tkvp9Q/IMG-1223.jpg
 image_alt: Image of millions of Fruit Loops.
-my_variable: Breakfast is served.
+my_variable: Breakfast is ready.
 ---
 {{ page.my_variable }}
 
